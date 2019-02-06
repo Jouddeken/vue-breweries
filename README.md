@@ -1,6 +1,6 @@
-# gdl-test
+# Vue Breweries
 
-> GDL Vue test
+> A search site for breweries made with Vue. A test to find out more about Vue coming from React.
 
 ## Build Setup
 
